@@ -1,0 +1,6 @@
+{
+  "name": "MeetLoop",
+  "description": "A premium social networking web platform for finding meaningful connections, friends, travel companions, events, and sharing memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
